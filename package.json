@@ -1,0 +1,31 @@
+{
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "working on node packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodvarma42/day6-meanstack.git"
+  },
+  "keywords": [
+    "meanstack",
+    "angular2",
+    "angular4"
+  ],
+  "author": "Sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinodvarma42/day6-meanstack/issues"
+  },
+  "homepage": "https://github.com/vinodvarma42/day6-meanstack#readme",
+  "dependencies": {
+    "bower": "^1.8.2",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
